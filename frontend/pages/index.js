@@ -2,10 +2,7 @@ import Link from 'next/link';
 
 const Home = () => (
   <div>
-    <p>Hey there whoo!</p>
-    <Link href="/sell">
-      <a>Sell</a>
-    </Link>
+    <p>Hey!</p>
   </div>
 )
  
